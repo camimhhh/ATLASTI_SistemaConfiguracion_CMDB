@@ -1,0 +1,9 @@
+001|Laptop Dell|HARDWARE|V1|Oficina TI|ACTIVO
+002|Servidor Lenovo|HARDWARE|V2|Data Center|ACTIVO
+003|Impresora Epson|HARDWARE|V1|Recepcion|MANTENIMIENTO
+004|Antivirus|SOFTWARE|2026|Servidor Principal|ACTIVO
+005|Sistema Contable|SOFTWARE|V3|Finanzas|ACTIVO
+006|Office 365|SOFTWARE|2024|Administracion|INACTIVO
+007|Correo Corporativo|SERVICIO|V1|Nube|ACTIVO
+008|Mesa de Ayuda|SERVICIO|V2|Soporte TI|ACTIVO
+009|Backup Automatico|SERVICIO|V1|Data Center|MANTENIMIENTO
